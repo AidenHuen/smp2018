@@ -10,7 +10,7 @@ More details see [SMP EUPT 2018](https://www.biendata.com/competition/smpeupt201
 * keras >= 1.2.0
 * gensim
 * scikit-learn
-you may need **keras.utils.vis_utils** for model visualization 
+</br> you may need **keras.utils.vis_utils** for model visualization 
 
 ## 2.Data Preprocessing
 - `my_utils/`: for data preprocessing
