@@ -44,8 +44,8 @@ word_char_rcnn | 0.9894 | 0.9984
 
 * Note that rcnn comes from `A Hybrid Framework for Text Modeling with Convolutional RNN` while cgru comes from `A C-LSTM Neural Network for Text Classfication`
 
-The source codes derives from https://github.com/fuliucansheng/360
-We use `model` to create the architectures of models, and use `train` to train them
+</br> The source codes derives from https://github.com/fuliucansheng/360
+</br> We use `model` to create the architectures of models, and use `train` to train them
 
 ## 4.Ensemble
 We use a simple but efficient voting mechanism for ensembling, and we can find it in `evaluate/predict`
