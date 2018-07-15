@@ -40,7 +40,7 @@ word_rcnn_char_cgru | 0.9910 | 0.9882
 word_cgru_char_rnn | 0.9887 | untested
 word_rnn_char_cgru | 0.9899 | untested
 word_rnn_char_cnn | 0.9897 | 0.9862
-word_char_rcnn | 0.9894 | 0.9984
+word_char_rcnn | 0.9894 | 0.9884
 
 * Note that rcnn comes from `A Hybrid Framework for Text Modeling with Convolutional RNN` while cgru comes from `A C-LSTM Neural Network for Text Classfication`
 
